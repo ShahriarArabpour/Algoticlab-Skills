@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creative Ideation"
+  short_description: "Routed ideation methods for Codex"
+  default_prompt: "Use $creative-ideation to generate specific, non-obvious ideas for my project."
