@@ -54,4 +54,4 @@ The Codex version includes `agents/openai.yaml` for Codex UI metadata. The Claud
 
 ## Attribution
 
-The Creative Ideation skill is adapted for Algoticlab from the MIT-licensed `optional-skills/creative/creative-ideation` skill in `NousResearch/hermes-agent`. See [NOTICE.md](NOTICE.md) for source attribution.
+The Creative Ideation skill is an Algoticlab Codex and Claude adaptation of the MIT-licensed `optional-skills/creative/creative-ideation` skill in `NousResearch/hermes-agent`. The original skill metadata lists `SHL0MS` as author. See [NOTICE.md](NOTICE.md) for source attribution.

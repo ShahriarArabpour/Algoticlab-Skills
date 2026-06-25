@@ -6,6 +6,7 @@ Portions of `skills/codex/creative-ideation` and `skills/claude/creative-ideatio
 
 - Source: https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/creative/creative-ideation
 - Upstream repository: https://github.com/NousResearch/hermes-agent
+- Original skill metadata author: SHL0MS
 - License: MIT
 - Upstream copyright: Copyright (c) 2025 Nous Research
 
