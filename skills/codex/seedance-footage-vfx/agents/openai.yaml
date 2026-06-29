@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance Footage VFX"
+  short_description: "Video-to-video Seedance VFX prompts"
+  default_prompt: "Use $seedance-footage-vfx to write a Seedance 2.0 video-to-video VFX prompt for my source clip."
